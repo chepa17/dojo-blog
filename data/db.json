@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Why do we use it?\n It is a long established fact that a trader will be distracted",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Opening PAarty!",
+            "body": "Why do we use it?\n It is a long established fact that a trader will be distracted",
+            "author": "mario",
+            "id": 2
+        }
+    ]
+}
